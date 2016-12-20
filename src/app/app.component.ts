@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
       <img [src]="logo">
     </header>
     <div class="wrapper">
-      <tesla-battery><tesla-battery>
+      <tesla-battery></tesla-battery>
     </div>
   `,
   styleUrls: ['./app.component.scss']
